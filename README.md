@@ -1,4 +1,4 @@
-# Eliza
+# Lex
 
 ## Edit the character files
 
